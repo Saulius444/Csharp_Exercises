@@ -1,0 +1,7 @@
+c:\users\saulius\source\repos\NumberGuess2\NumberGuess2\bin\Debug\NumberGuess2.exe.config
+c:\users\saulius\source\repos\NumberGuess2\NumberGuess2\bin\Debug\NumberGuess2.exe
+c:\users\saulius\source\repos\NumberGuess2\NumberGuess2\bin\Debug\NumberGuess2.pdb
+c:\users\saulius\source\repos\NumberGuess2\NumberGuess2\obj\Debug\NumberGuess2.csprojResolveAssemblyReference.cache
+c:\users\saulius\source\repos\NumberGuess2\NumberGuess2\obj\Debug\NumberGuess2.csproj.CoreCompileInputs.cache
+c:\users\saulius\source\repos\NumberGuess2\NumberGuess2\obj\Debug\NumberGuess2.exe
+c:\users\saulius\source\repos\NumberGuess2\NumberGuess2\obj\Debug\NumberGuess2.pdb

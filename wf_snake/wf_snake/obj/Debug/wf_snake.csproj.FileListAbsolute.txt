@@ -1,0 +1,10 @@
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\obj\Debug\wf_snake.csprojResolveAssemblyReference.cache
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\obj\Debug\wf_snake.Properties.Resources.resources
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\obj\Debug\wf_snake.csproj.GenerateResource.cache
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\obj\Debug\wf_snake.csproj.CoreCompileInputs.cache
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\bin\Debug\wf_snake.exe.config
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\bin\Debug\wf_snake.exe
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\bin\Debug\wf_snake.pdb
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\obj\Debug\wf_snake.exe
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\obj\Debug\wf_snake.pdb
+C:\Users\Saulius\source\repos\wf_snake\wf_snake\obj\Debug\Snake.Form1.resources

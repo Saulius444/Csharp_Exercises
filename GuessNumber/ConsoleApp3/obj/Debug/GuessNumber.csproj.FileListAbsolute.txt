@@ -1,0 +1,7 @@
+C:\Users\Saulius\source\repos\GuessNumber\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Saulius\source\repos\GuessNumber\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Saulius\source\repos\GuessNumber\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Saulius\source\repos\GuessNumber\ConsoleApp3\obj\Debug\GuessNumber.csprojResolveAssemblyReference.cache
+C:\Users\Saulius\source\repos\GuessNumber\ConsoleApp3\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Saulius\source\repos\GuessNumber\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Saulius\source\repos\GuessNumber\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
