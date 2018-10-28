@@ -1,7 +1,0 @@
-C:\Users\Saulius\source\repos\Csharp_tuts\Csharp_tuts\obj\Debug\Csharp_tuts.csprojResolveAssemblyReference.cache
-C:\Users\Saulius\source\repos\Csharp_tuts\Csharp_tuts\obj\Debug\Csharp_tuts.csproj.CoreCompileInputs.cache
-C:\Users\Saulius\source\repos\Csharp_tuts\Csharp_tuts\bin\Debug\Csharp_tuts.exe.config
-C:\Users\Saulius\source\repos\Csharp_tuts\Csharp_tuts\bin\Debug\Csharp_tuts.exe
-C:\Users\Saulius\source\repos\Csharp_tuts\Csharp_tuts\bin\Debug\Csharp_tuts.pdb
-C:\Users\Saulius\source\repos\Csharp_tuts\Csharp_tuts\obj\Debug\Csharp_tuts.exe
-C:\Users\Saulius\source\repos\Csharp_tuts\Csharp_tuts\obj\Debug\Csharp_tuts.pdb
